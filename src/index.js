@@ -1,5 +1,5 @@
 import vue from 'vue'
-import app from './App'
+import app from '@/App'
 
 
 new vue({
